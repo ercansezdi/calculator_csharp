@@ -1,0 +1,10 @@
+C:\Users\TRforever\source\repos\calculator_csharp\simple_calculator\simple_calculator\bin\Debug\simple_calculator.exe.config
+C:\Users\TRforever\source\repos\calculator_csharp\simple_calculator\simple_calculator\bin\Debug\simple_calculator.exe
+C:\Users\TRforever\source\repos\calculator_csharp\simple_calculator\simple_calculator\bin\Debug\simple_calculator.pdb
+C:\Users\TRforever\source\repos\calculator_csharp\simple_calculator\simple_calculator\obj\Debug\simple_calculator.csprojAssemblyReference.cache
+C:\Users\TRforever\source\repos\calculator_csharp\simple_calculator\simple_calculator\obj\Debug\simple_calculator.Form1.resources
+C:\Users\TRforever\source\repos\calculator_csharp\simple_calculator\simple_calculator\obj\Debug\simple_calculator.Properties.Resources.resources
+C:\Users\TRforever\source\repos\calculator_csharp\simple_calculator\simple_calculator\obj\Debug\simple_calculator.csproj.GenerateResource.cache
+C:\Users\TRforever\source\repos\calculator_csharp\simple_calculator\simple_calculator\obj\Debug\simple_calculator.csproj.CoreCompileInputs.cache
+C:\Users\TRforever\source\repos\calculator_csharp\simple_calculator\simple_calculator\obj\Debug\simple_calculator.exe
+C:\Users\TRforever\source\repos\calculator_csharp\simple_calculator\simple_calculator\obj\Debug\simple_calculator.pdb
